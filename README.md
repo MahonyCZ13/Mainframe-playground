@@ -8,7 +8,7 @@ programming languages mainly:
 
 I recently fell for permacomputing and legacy operating systems and found
 out, that these legacy systems are not so legacy. I see a potential of learning
-these.
+these. I will also try to stay at the CLI as long as possible.
 
 ## Tech stuff
 
