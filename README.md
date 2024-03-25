@@ -15,3 +15,8 @@ these. I will also try to stay at the CLI as long as possible.
 - Operating system: Ubuntu 22.04 (WSL 2)
 - Shell: ZSH
 - IDE: Vim
+
+## Goal
+
+The goal of this endeavour is be more aware of the mainframe ecosystem.
+Possibly to learn well to be capable of performing reasonable operations.
