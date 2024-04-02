@@ -5,6 +5,7 @@
       * The author and date written are done via comments in modern environments. 
        PROCEDURE DIVISION.
            DISPLAY "Hello, world!".
+           STOP RUN.
        END PROGRAM HELLO.
       * We don't need to use ALL CAPS. GnuCobol is fine with lower caps
       * From column 8 onwards, there are two section: A and B.
