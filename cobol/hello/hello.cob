@@ -5,6 +5,7 @@
       * The author and date written are done via comments in modern environments. 
 000050 PROCEDURE DIVISION.
 000060     DISPLAY "Hello, world!".
+000061     DISPLAY "Another line...".
 000070     STOP RUN.
 000080 END PROGRAM HELLO.
       * We don't need to use ALL CAPS. GnuCobol is fine with lower caps
